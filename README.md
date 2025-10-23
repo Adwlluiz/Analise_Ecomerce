@@ -5,7 +5,7 @@ Bem-vindo(a) ao repositório do projeto de análise de dados de pedidos de e-com
 ## 📊 Relatório Interativo
 
 Você pode acessar o dashboard interativo neste link:  
-[Visualizar relatório no Looker Studio]([https://lookerstudio.google.com/s/vdFAWsXlVug](https://lookerstudio.google.com/reporting/9a13a833-e3ea-416a-9d78-a6257a2a705d)
+[Visualizar relatório no Looker Studio]([https://lookerstudio.google.com/s/vdFAWsXlVug](https://lookerstudio.google.com/reporting/9a13a833-e3ea-416a-9d78-a6257a2a705d))
 
 > ⚠️ *Observação:* O acesso ao relatório pode depender das permissões de visualização definidas na plataforma Looker Studio. Se você receber uma mensagem de que o relatório está “restrito” ou “pedindo acesso”, por favor solicite permissão ao proprietário ou entre em contato.
 
